@@ -106,7 +106,7 @@ class Leases extends Component {
           }
           cycleStartDate.add(1, "days");
         }
-
+        //
         dates.push({
           fromDate: cycleStartDate.toDate(),
           toDate: contractEndDate.toDate(),
