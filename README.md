@@ -1,5 +1,5 @@
 
-## different - Rental Paymentes
+## different - Rental Payments
 
 This application adds a new feature that allows tenants
 to see a list of their past and upcoming rent payments.
@@ -28,8 +28,7 @@ below.
     $ npm run start
 
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the browser development mode in port 3000.<br>
 
 The page will reload if you make edits.<br>
 
