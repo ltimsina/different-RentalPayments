@@ -19,8 +19,8 @@ below.
 
 ### Install
 
-    $ git clone https://github.com/ORG/PROJECT.git
-    $ cd PROJECT
+    $ git clone https://github.com/ltimsina/different-RentalPayments.git
+    $ cd different-RentalPayments
     $ npm install
 
 ### Start & watch
