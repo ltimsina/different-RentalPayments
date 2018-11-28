@@ -110,7 +110,7 @@ class Leases extends Component {
         dates.push({
           fromDate: cycleStartDate.toDate(),
           toDate: contractEndDate.toDate(),
-          days: contractEndDate.diff(cycleStartDate, 'days'),
+          days: contractEndDate.diff(cycleStartDate, 'days') + 1
         });
 
         const rentPerDay = rentalContract.rent / frequency;
