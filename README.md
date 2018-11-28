@@ -3,7 +3,7 @@
 
 This application adds a new feature that allows tenants
 to see a list of their past and upcoming rent payments.
-This appplication is built on react anf also employs react-router.
+This appplication is built on react and also employs react-router.
 
 ### Requirements
 
